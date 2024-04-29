@@ -1,0 +1,104 @@
+
+.paddingHomeInnersection{
+    padding: 15px;
+
+}
+.logo a img{
+    height: 55px !important;
+}
+.schedulePickup{
+    padding: 10px !important;
+    margin: 17px;
+    background-color: #1C9797;
+    color: white !important;
+}
+.displayset{
+    display: flex;
+    justify-content: end;
+}
+.slidercontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 730px;
+}
+.text_your_address  {
+    width: 535px;
+    padding: 20px;
+}
+.btnstart{
+    position:absolute;
+    right: 108px;
+    top: 42px;
+    background-color: #1C9797;
+    color: white;
+    padding: 10px;
+}
+.text1{
+margin-top: 170px;
+}
+.text2{
+    margin-top: 100px;
+}
+.pdetails{
+    font-family:'roboto'; 
+    font-size:25px;
+    color:#1C9797 !important;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+.howitworks{
+    border-bottom: 3px solid #1C9797;
+    width: fit-content;
+    color: #194F90;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+.fourstepheading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h2getitdone{
+    font-family: 'roboto-medium';
+    font-size: 24px;
+    color: #194F90;
+}
+.marginset{
+    margin-bottom: 80px;
+    margin-top: 60px ;
+}
+.form-floating>.form-control {
+    padding: 1rem 0.75rem;
+    border: none;
+    border-bottom: 1px solid;
+}
+.demo {
+    /* margin: 20px; */
+  }
+  .accordion .fa {
+    margin-right: 0.5rem;
+    border-radius: 50%;
+    font-size: 25px;
+  /*   background-color: #54A44A; */
+  }
+  .accordion button, .accordion button:hover, .accordion button:focus{
+    text-decoration: none;
+  }
+  .footerTab{
+    display: flex;
+    justify-content: space-between;
+  }
+  .btn-link {
+    font-weight: 600 !important;
+    color: #000000 !important;
+    background-color: transparent;
+    font-size: 12px;
+    border: none;
+}
+.sendEmailBtn{
+    position: absolute;
+    top: 6px;
+    right: 0px;
+}
